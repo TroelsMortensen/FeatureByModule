@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AddCourse/AddCourse.iml" filepath="$PROJECT_DIR$/AddCourse/AddCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AllTestJunk/AllTestJunk.iml" filepath="$PROJECT_DIR$/AllTestJunk/AllTestJunk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataAccessContracts/DataAccessContracts.iml" filepath="$PROJECT_DIR$/DataAccessContracts/DataAccessContracts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Domain/Domain.iml" filepath="$PROJECT_DIR$/Domain/Domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FeatureByModule.iml" filepath="$PROJECT_DIR$/FeatureByModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InMemoryDataAccess/InMemoryDataAccess.iml" filepath="$PROJECT_DIR$/InMemoryDataAccess/InMemoryDataAccess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RunServer/RunServer.iml" filepath="$PROJECT_DIR$/RunServer/RunServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketCore/SocketCore.iml" filepath="$PROJECT_DIR$/SocketCore/SocketCore.iml" />
+    </modules>
+  </component>
+</project>
